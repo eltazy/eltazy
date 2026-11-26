@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/congo_kinshasa/eltazy.svg)](https://user-badge.committers.top/congo_kinshasa/eltazy)
+<!-- [![committers.top badge](https://user-badge.committers.top/congo_kinshasa/eltazy.svg)](https://user-badge.committers.top/congo_kinshasa/eltazy) -->
 
 ### Hi there 👋
 
